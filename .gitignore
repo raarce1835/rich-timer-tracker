@@ -1,0 +1,4 @@
+time_logs.json
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
